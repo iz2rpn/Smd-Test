@@ -1,1 +1,2 @@
 # Smd-Test
+Kicad software
